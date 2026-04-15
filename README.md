@@ -1,1 +1,1 @@
-# cosmic-chat
+# kosmic-audio
